@@ -1,0 +1,12 @@
+body {
+    background-color: beige;
+}
+
+button {
+    margin-top: 10px;
+
+}
+
+.error {
+    color:rgb(42, 0, 139)
+}
